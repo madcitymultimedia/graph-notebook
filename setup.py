@@ -68,11 +68,11 @@ setup(
     install_requires=[
         'gremlinpython>=3.5.1,<=3.6.2',
         'SPARQLWrapper==1.8.4',
-        'requests>=2.27.0,<=2.28.2',
+        'requests>=2.27.0,<=2.32.3',
         'ipywidgets==7.7.2',
         'jupyterlab_widgets>=1.0.0,<3.0.0',
         'networkx==2.4',
-        'Jinja2>=3.0.3,<=3.1.2',
+        'Jinja2>=3.0.3,<=3.1.4',
         'notebook>=6.1.5,<6.5.0',
         'nbclient<=0.7.3',
         'jupyter-contrib-nbextensions<=0.7.0',
